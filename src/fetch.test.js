@@ -12,6 +12,7 @@ frisby.globalSetup({
     }
 })
 
+// https://localhost:8080
 const API_getUser = '/user/list'
 const API_getGroup = '/group/list'
 
